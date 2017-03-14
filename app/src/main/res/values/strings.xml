@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FlowersDelivery</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="catalog_item">Каталог товаров</string>
+    <string name="cart_item">Корзина</string>
+    <string name="order_list_item">Список заказов</string>
+    <string name="delivery_item">Доставка</string>
+    <string name="regestration_name">Android Studio</string>
+    <string name="email_app">android.studio@android.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_inside_fragment">Text inside fragment</string>
+    <string name="button_change_text">Button change text</string>
+</resources>
